@@ -64,15 +64,15 @@ This project was built to practice:
 
 ### Homepage
 
-![Homepage](assets/screenshots/homepage.png)
+![Homepage](assets/screenshots/homepage.png.png)
 
 ### Order Form
 
-![Order Form](assets/screenshots/form-section.png)
+![Order Form](assets/screenshots/order-form.png.png)
 
 ### Orders Table
 
-![Orders Table](assets/screenshots/orders-table.png)
+![Orders Table](assets/screenshots/table.png.png)
 
 ## Author
 
