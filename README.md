@@ -60,6 +60,20 @@ This project was built to practice:
 - Data Presentation with Tables
 - Project Organization
 
+## Preview
+
+### Homepage
+
+![Homepage](assets/screenshots/homepage.png)
+
+### Order Form
+
+![Order Form](assets/screenshots/form-section.png)
+
+### Orders Table
+
+![Orders Table](assets/screenshots/orders-table.png)
+
 ## Author
 
 Oyewole Philip
